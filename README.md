@@ -1,3 +1,3 @@
-# P.Ganesh
-### 🌐 Connect with Me
-* 💻 CodeChef: [@d_one_piece_56](https://codechef.com)
+<a href="https://codechef.com">
+  <img src="d_one_piece_56" alt="CodeChef Stats" />
+</a>
